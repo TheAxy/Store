@@ -1,0 +1,31 @@
+.sort-form {
+    position: relative;
+    padding: 10px 0;
+}
+
+.sort-form__input {
+    padding: 10px;
+    padding-right: 110px;
+    font-size: 16px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.sort-form__button {
+    position: absolute;
+    top: 10;
+    right: 0;
+    max-width: 100px;
+}
+
+._select {
+    font-size: 16px;
+    padding: 10px 5px;
+    border: 2px solid #000;
+    border-radius: 5px;
+}   
+._select option{
+    padding-top: 15px;
+}
+
