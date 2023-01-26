@@ -1,3 +1,11 @@
+Простейший протоптип интернет-магазина, написанный на React.js.
+Были использованны такие технологии, как: ReactComponent, react-router-dom, fethc.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
