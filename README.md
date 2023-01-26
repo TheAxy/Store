@@ -3,4 +3,9 @@ https://theaxy.github.io/Store/
 # О приложении
 Протоптип интернет-магазина с использованием React.js.
 
-Были использованны такие технологии, как: `React Component`, `react-router-dom`, `fethc`, `TypeScript`
+На сайте есть полноценная корзина товаров, список товаров, сортировка по цене, сортировка по типу товара, поиск по названию.
+
+
+# Стек технологий
+
+`React Component`, `react-router-dom`, `fethc`, `TypeScript`, `mobx`
