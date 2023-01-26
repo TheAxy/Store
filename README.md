@@ -8,4 +8,4 @@ https://theaxy.github.io/Store/
 
 # Стек технологий
 
-`React Component`, `react-router-dom`, `fethc`, `TypeScript`, `mobx`
+`React Component`, `react-router-dom`, `fetch`, `TypeScript`, `mobx`
